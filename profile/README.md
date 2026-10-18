@@ -23,7 +23,7 @@ If you want to contribute, you can! It's easy, just:
 ## 📦 Repositories
 - `NextDesktop`: The CompassCAD NEXT desktop app
 - `ReactWeb`: The CompassCAD NEXT web app, for both desktop and mobile. Accessible via [https://compass-cad.web.app](https://compass-cad.web.app)
-- `Mobile`: Scrapped version of CompassCAD NEXT, built specifically for mobile platforms.
+- `Mobile`: ~Scrapped~ A special version of CompassCAD NEXT, built specifically for mobile platforms.
 
 <!--
 
